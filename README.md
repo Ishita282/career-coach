@@ -1,20 +1,32 @@
-# Full Stack AI Career Coach with Next JS, Neon DB, Tailwind, Prisma, Inngest, Shadcn UI Tutorial 🔥🔥
-## https://youtu.be/UbXpRv5ApKA
+AI Career Coach
 
-![sensai](https://github.com/user-attachments/assets/eee79242-4056-4d19-b655-2873788979e1)
+AI Career Coach is a web app that helps users improve their careers by analyzing resumes, giving personalized advice, and offering interview prep — powered by Next.js and OpenAI.
+🚀 Features
 
-### Make sure to create a `.env` file with following variables -
+    Resume upload & analysis
 
-```
-DATABASE_URL=
+    Career and job advice
 
-NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
-CLERK_SECRET_KEY=
+    Interview Q&A practice
 
-NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
-NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
-NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/onboarding
-NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/onboarding
+    Fast and responsive UI
 
-GEMINI_API_KEY=
-```
+🛠️ Tech Stack
+
+    Frontend: Next.js, Tailwind CSS
+
+    Backend: Node.js, OpenAI API
+
+📦 Setup
+
+git clone https://github.com/your-username/ai-career-coach.git
+cd ai-career-coach
+npm install
+
+Create a .env file:
+
+OPENAI_API_KEY=your_api_key
+
+Run the app:
+
+npm start
