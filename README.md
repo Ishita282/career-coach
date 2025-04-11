@@ -19,9 +19,9 @@ AI Career Coach is a web app that helps users improve their careers by analyzing
 
 📦 Setup
 
-git clone https://github.com/Ishita282/career-coach.git
-cd ai-career-coach
-npm install
+    git clone https://github.com/Ishita282/career-coach.git
+    cd ai-career-coach
+    npm install
 
 Create a .env file:
 
